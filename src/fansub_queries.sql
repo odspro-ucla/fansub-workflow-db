@@ -4,12 +4,12 @@
 -- Author: Oliver D Siu
 -- ====================================================================
 -- 
--- This script contains all SQL queries from the 167_proj_demo.Rmd report.
+-- This script contains all SQL queries from the fansub_demo.Rmd report.
 -- Database: subbing.db (SQLite)
 -- 
 -- To execute this script:
 -- 1. Ensure subbing.db is in the same directory
--- 2. Run with SQLite: sqlite3 subbing.db < queries.sql
+-- 2. Run with SQLite: sqlite3 subbing.db < fansub_queries.sql
 -- 3. Or execute queries individually in your preferred SQL client
 -- 
 -- ====================================================================
